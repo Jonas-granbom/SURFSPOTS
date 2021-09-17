@@ -1,0 +1,44 @@
+{
+  "surfSpots": [
+    {
+      "spot": "Uluwatu",
+      "difficulty": "Pro",
+      "rating": "4/5"
+    },
+    {
+      "spot": "Balangan",
+      "difficulty": "Intermediate",
+      "rating": "4/5"
+    },
+    {
+      "spot": "Bingin",
+      "difficulty": "Intermediate",
+      "rating": "4/5"
+    },
+    {
+      "spot": "Berawa",
+      "difficulty": "Beginner",
+      "rating": "3/5"
+    },
+    {
+      "spot": "Keramas",
+      "difficulty": "Intermediate-Pro",
+      "rating": "2/5"
+    },
+    {
+      "spot": "Medewi",
+      "difficulty": "Beginner-Expert",
+      "rating": "3/5"
+    },
+    {
+      "spot": "Dreamland",
+      "difficulty": "Intermediate-Expert",
+      "rating": "3/5"
+    },
+    {
+      "spot": "Padang padang",
+      "difficulty": "Beginner",
+      "rating": "3/5"
+    }
+  ]
+}
